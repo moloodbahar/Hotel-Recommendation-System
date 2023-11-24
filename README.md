@@ -16,3 +16,5 @@ The final approach which we implement to reach these goals for this project guid
   • Creating the profiles per each user and item by just using the implicit data and the interaction of the users with items based on the transactions data;
   • Having a better performance by embedding these created profiles in the learning process of model-based recommender system;
   • Considering context to give more accurate recommendations to each customer
+
+To know more about this project look at here : 
