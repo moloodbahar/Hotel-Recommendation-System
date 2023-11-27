@@ -17,7 +17,7 @@ The final approach which we implement to reach these goals for this project guid
   • Considering context to give more accurate recommendations to each customer.
 
 ## Implementation
-LightFM was introduced for the first time by Maciej Kula (who was working for Lyst - a fashion shopping website) in [Kula 2015]. LightFM is written in Cython and is paralellized via HOGWILD SGD (an update scheme to Parallelizing Stochastic Gradient Descent). He released a Python implementation of LightFM and made the source code for his paper and all the experiments available on Github . For embedding the features and contextualizing them, I used LightFM method as the core of my algorithm and I added some extra functionality to the main method.
+For embedding the features and contextualizing them, I used LightFM method as the core of my algorithm and I added some extra functionality to the main method.
 
 To know more about this project look at here : https://armanmolood.wixsite.com/moloodarman/post/context-aware-implicit-feedbackbased-hotel-recommender-system-for-anonymous-business-travellers
 
